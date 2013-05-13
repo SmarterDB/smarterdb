@@ -13,7 +13,7 @@ In a nutshell, all you have to do is plan the quantity and type of data necessar
 * [Entity Framework 6.0] (http://entityframework.codeplex.com/)
 * [MVC] (http://aspnetwebstack.codeplex.com/) with
   * [SignalR] (https://github.com/SignalR/SignalR)
-  * ASP.NET Membership System (OAuth)
+  * [DotNetOpenAuth] (http://dotnetopenauth.net/)
 * [Reactive Extension (Rx)] (http://msdn.microsoft.com/en-us/data/gg577609)
 * [Bootstrap] (http://twitter.github.com/bootstrap/)
 * [jqGrid] (https://github.com/tonytomov/jqGrid)
