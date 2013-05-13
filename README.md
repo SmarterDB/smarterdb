@@ -8,7 +8,6 @@ SmarterDB is a Microsoft SQL database server based smart tool for developing app
 In a nutshell, all you have to do is plan the quantity and type of data necessary, guarantee the required capacities and leave the rest to our ingenious database. Sounds good, doesn't it?
 
 # Technology stack
-
 * [Microsoft SQL Server] (http://www.microsoft.com/en-us/sqlserver/default.aspx)
 * [Azure SQL] (http://www.windowsazure.com/en-us/home/features/data-management/)
 * [Entity Framework 6.0] (http://entityframework.codeplex.com/)
@@ -21,5 +20,10 @@ In a nutshell, all you have to do is plan the quantity and type of data necessar
 * [SpecFlow] (https://github.com/techtalk/SpecFlow)
 * [Selenium] (http://docs.seleniumhq.org/)
 
-Versioning with [Semantic Versioning] (http://semver.org)
-Issue tracking with [huboard] (http://huboard.com/)
+# Profiling
+* [ElmahR] (https://bitbucket.org/wasp/elmahr/wiki/Home)
+* [MiniProfiler] (http://miniprofiler.com/)
+
+# Else
+* Versioning with [Semantic Versioning] (http://semver.org)
+* Issue tracking with [huboard] (http://huboard.com/)
